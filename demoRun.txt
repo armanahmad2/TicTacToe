@@ -1,0 +1,72 @@
+Steps to play: 1. Choose O or X (selection will be forever till application end)
+			   2. User preferance for who gonna start first (for first time only)
+			   3. Start playing by typing position (ex. ur (upper right))
+			   
+Demo:			   
+
+Let's play TicTacToe
+
+
+ ul  ║ um  ║ ur
+══════════════════
+ ml  ║ mm  ║ mr
+══════════════════
+ ll  ║ lm  ║ lr
+
+Please choose O or X
+x
+You choosed X, So mine is O
+Do you wanna go first? yes (y) or no (n)
+y
+Please select postion like ul for upper left, mm for middle middile, lr for lower right and so on...
+mm
+
+
+ ul  ║ um  ║ ur
+══════════════════
+ ml  ║  X  ║  O
+══════════════════
+ ll  ║ lm  ║ lr
+
+Please select postion like ul for upper left, mm for middle middile, lr for lower right and so on...
+ul
+
+
+  X  ║ um  ║ ur
+══════════════════
+ ml  ║  X  ║  O
+══════════════════
+ ll  ║ lm  ║  O
+
+Please select postion like ul for upper left, mm for middle middile, lr for lower right and so on...
+ur
+
+
+  X  ║ um  ║  X
+══════════════════
+ ml  ║  X  ║  O
+══════════════════
+  O  ║ lm  ║  O
+
+Please select postion like ul for upper left, mm for middle middile, lr for lower right and so on...
+lm
+
+
+  X  ║  O  ║  X
+══════════════════
+ ml  ║  X  ║  O
+══════════════════
+  O  ║  X  ║  O
+
+Please select postion like ul for upper left, mm for middle middile, lr for lower right and so on...
+ml
+
+
+  X  ║  O  ║  X
+══════════════════
+  X  ║  X  ║  O
+══════════════════
+  O  ║  X  ║  O
+
+Oops! Win Win situation. Looks like you're brother from another mother.
+Wanna play again? yes(y) or no(n) ?
